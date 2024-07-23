@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Jouhr5
-- 👀 I’m interested in Software development.
-- 🌱 I’m currently learning Node.js
+- 👋 Hi, I’m Muhammed Jouhar
+- 👀 Full stack developer.
+- 🌱 I’m currently learning Ajax.
